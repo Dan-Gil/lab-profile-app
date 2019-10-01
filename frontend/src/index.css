@@ -26,7 +26,7 @@ code {
   display: flex;
   justify-content: space-between;
   border-radius: 10px;
-  background-image: url(./public/assets/oval-bg.png);
+  background-image: url(./images/oval-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   box-sizing: content-box;
